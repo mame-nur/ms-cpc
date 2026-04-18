@@ -1,0 +1,5 @@
+D=input()
+if "COV" in D:
+    print("Veikur!")
+else:
+    print("Ekki Veikur!")
